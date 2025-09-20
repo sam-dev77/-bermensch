@@ -1,0 +1,25 @@
+{
+  "name": "academia-validator-frontend",
+  "version": "1.0.0",
+  "private": true,
+  "main": "src/index.tsx",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build"
+  },
+  "dependencies": {
+    "@mui/material": "^5.14.0",
+    "@emotion/react": "^11.11.0",
+    "@emotion/styled": "^11.11.0",
+    "axios": "^1.5.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.17.0",
+    "tesseract.js": "^4.0.2"
+  },
+  "devDependencies": {
+    "typescript": "^5.1.6",
+    "@types/react": "^18.0.37",
+    "@types/react-dom": "^18.0.11"
+  }
+}
